@@ -1,4 +1,4 @@
-# Algoritimo_genetico
+# Algoritimo Genético
 IA: Algoritimo Genetico em Python
 
 O código deste algorírimo genético visa resolver a seguinte questão matemática:
