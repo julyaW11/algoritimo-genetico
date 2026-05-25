@@ -1,4 +1,4 @@
-# Algoritimo Genético
+# Algoritimo Genético(AG)
 
 IA: Algoritimo Genetico em Python
 
