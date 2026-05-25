@@ -8,9 +8,11 @@ O código deste algorímo genético visa resolver a seguinte questão matemátic
 
 A questão exige as condições abaixo:
 
-🔹 Codificação: "X" deve ser codificado como um vetor binário
-🔹 População Inicial: deve ter 4 indivíduos
-🔹 Taxa de mutação: de 1%
-🔹 Taxa de Crossover: de 60%
-🔹 Seleção: Use seleção por torneio
-🔹 Execução: Aplique o algoritmo por 5 gerações
+A questão exige as condições abaixo:
+
+- **Codificação:** "X" deve ser codificado como um vetor binário
+- **População Inicial:** deve ter 4 indivíduos
+- **Taxa de mutação:** de 1%
+- **Taxa de Crossover:** de 60%
+- **Seleção:** Use seleção por torneio
+- **Execução:** Aplique o algoritmo por 5 gerações
